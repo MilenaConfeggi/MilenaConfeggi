@@ -7,8 +7,6 @@
   
   🩷 Si no te gusta el rosa ni mires💋  
 
-  
-  ![Uploading barbie-margot-robbie-1-2.gif…]()
 
  <img align= "left" width= "47%" src= "https://github-readme-stats.vercel.app/api?username=MilenaConfeggi&show_icons=true&theme=synthwave" />
  <img align= "left" width= "47%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=MilenaConfeggi&layout=compact&theme=synthwave" />
