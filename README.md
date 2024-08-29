@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  🩷 Estudiante de licenciatura en informatica en la UNLP 🩷
+  🩷 Estudiante de licenciatura en sistemas en la UNLP 🩷
 </p>
     
 <p align="center">
